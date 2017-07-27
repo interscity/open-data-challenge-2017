@@ -2,7 +2,7 @@ This repository contains the data collected as part of the São Paulo School of 
 The raw data consists of location and _motion activity_ traces from several participants in the school. All participants have consented to have their data publicly available.
 The data is stored as a list of JSON objects, with both data and metadata.
 
-The data is also loaded into a server in the cloud, and available through a public ipython notebook server.
+The data is also available through a public ipython notebook server.
 http://50.19.181.11:9999/tree?
 
 ### Example of location data ###
