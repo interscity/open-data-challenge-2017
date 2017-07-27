@@ -4,7 +4,7 @@ This repository contains the data collected as part of the São Paulo School of 
 The raw data consists of mobility traces from several participants in the school. All participants have consented to have their data publicly available. The data is stored as a list of JSON objects - each object contains both data and metadata.
 
 ### Types of data ###
-The traces contain both raw data, and the results of some post-processing performed by the code at https://github.com/e-mission/e-mission-server. The raw data is untouched - the analysis results are stored as separate objects that represent views over the raw data. The raw location traces can be noisy, and intermittent, but the post-processing also generates a stream of resampled data for easier use.
+The traces contain both raw data, and the results of some post-processing performed by the code at https://github.com/e-mission/e-mission-server. The raw data is untouched - the analysis results are stored as separate objects that represent views over the raw data. The raw location traces can be noisy and intermittent, but the post-processing also generates a stream of resampled data for easier use.
 
 The post-processing is reasonably good, so the analysed trip and section data can be used directly, or researchers can choose to use the raw data and perform their own post-processing. If their post-processing is more accurate than the current one, they are encouraged to submit their work to the e-mission project (https://github.com/e-mission/e-mission-server)
 
@@ -33,12 +33,12 @@ A complete list of the processed data types, in order of general interest, is:
 
 ### Quick start ###
 
-The data is also available through a public ipython notebook server.
+The data is also available through a public ipython notebook server at
 http://50.19.181.11:9999/tree?
 
-The sample netbook below has examples of how to access all these objects and plot them on a map.
-NOTE: Please don't edit the notebook directly - this is a shared server.
-Make a copy of the notebook, label it with your name, and explore the data in there.
+The sample notebook below has examples of how to access all these objects and plot them on a map.
+**NOTE: Please don't edit the notebook directly - this is a shared server.**
+Make a copy of the notebook, label it with your name, and explore the data there.
 http://50.19.181.11:9999/notebooks/Sample/Timeseries_Sample.ipynb
 
 ### Data format examples ###
