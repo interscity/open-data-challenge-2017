@@ -1,0 +1,115 @@
+Default Report
+Last Modified: 2017-08-02 14:58:46 PDT
+
+
+Q12 - This will be auto-filled with your unique user id. This allows us to link your answers with the passively collected data without giving out your email to qualtrics.
+This will be auto-filled with your unique user id. This allows us to link y...
+ea59084e11d4407692523b9a29ce35e0
+ea59084e11d4407692523b9a29ce35e0
+ea59084e11d4407692523b9a29ce35e0
+ea59084e11d4407692523b9a29ce35e0
+dcdb5f74071a4e5ba954e613c5b46e5d
+b359532e176c4e14ace3ceb7bece34fd
+b359532e176c4e14ace3ceb7bece34fd
+dca955bfb7694a1c8aab83963192faeb
+ea59084e11d4407692523b9a29ce35e0
+ea59084e11d4407692523b9a29ce35e0
+ea59084e11d4407692523b9a29ce35e0
+b359532e176c4e14ace3ceb7bece34fd
+dcdb5f74071a4e5ba954e613c5b46e5d
+dcdb5f74071a4e5ba954e613c5b46e5d
+dcdb5f74071a4e5ba954e613c5b46e5d
+dca955bfb7694a1c8aab83963192faeb
+b359532e176c4e14ace3ceb7bece34fd
+b359532e176c4e14ace3ceb7bece34fd
+faf252269b604835b3e4c4176779b66f
+
+Q13 - This will be automatically filled in with the trip start and end times to help us link these responses back to the trip.
+Trip start timestamp,Trip end timestamp,Trip start time,Trip end time
+1501708786,1501710496.713,2017-08-02T14:19:46-07:00,2017-08-02T14:48:16-07:00
+1501687634,1501688379.842,2017-08-02T08:27:14-07:00,2017-08-02T08:39:39-07:00
+1501677959.335,1501679343.372,2017-08-02T05:45:59-07:00,2017-08-02T06:09:03-07:00
+1501688705.593,1501688772,2017-08-02T08:45:05-07:00,2017-08-02T08:46:12-07:00
+1501671692.416,1501673611.486,2017-08-02T08:01:32-03:00,2017-08-02T08:33:31-03:00
+1501679273.86,1501681015.064,2017-08-02T10:07:53-03:00,2017-08-02T10:36:55-03:00
+1501677928,1501679524,2017-08-02T09:45:28-03:00,2017-08-02T10:12:04-03:00
+1501535406.653,1501538139.7,2017-07-31T18:10:06-03:00,2017-07-31T18:55:39-03:00
+1501630447.802,1501631824.22,2017-08-01T16:34:07-07:00,2017-08-01T16:57:04-07:00
+1501629954.812,1501630709.042,2017-08-01T16:25:54-07:00,2017-08-01T16:38:29-07:00
+1501628423.807,1501629667.757,2017-08-01T16:00:23-07:00,2017-08-01T16:21:07-07:00
+1501622547.615,1501623952.832,2017-08-01T18:22:27-03:00,2017-08-01T18:45:52-03:00
+1501602361,1501602721,2017-08-01T12:46:01-03:00,2017-08-01T12:52:01-03:00
+1501598556.145,1501602392.722,2017-08-01T11:42:36-03:00,2017-08-01T12:46:32-03:00
+1501597724.738,1501598204.11,2017-08-01T11:28:44-03:00,2017-08-01T11:36:44-03:00
+1501582069,1501582347.551,2017-08-01T07:07:49-03:00,2017-08-01T07:12:27-03:00
+1501603961.708,1501604236.424,2017-08-01T13:12:41-03:00,2017-08-01T13:17:16-03:00
+1501604236.424,1501604236.424,2017-08-01T13:17:16-03:00,2017-08-01T13:17:16-03:00
+1501515444.0837846,1501515938.104,2017-07-31T12:37:24-03:00,2017-07-31T12:45:38-03:00
+
+Q1 - How did you take this trip? Please drag the modes involved in your trip into the box in the order in which they were taken.
+
+
+Q5 - How many people did you share the ride with?
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,How many people did you share the ride with?,2.00,2.00,2.00,0.00,0.00,2
+
+Q6 - What was the other mode?
+What was the other mode?
+
+Q2 - Why did you take this trip?
+#,Answer,%,Count
+1,Home,21.05%,4
+2,Work,10.53%,2
+3,School,21.05%,4
+4,Shopping,0.00%,0
+5,Meal,36.84%,7
+6,Pick-up/Drop-off,0.00%,0
+7,Personal/medical,0.00%,0
+8,Recreation/exercise,0.00%,0
+9,Entertainment/social,0.00%,0
+10,Religious,0.00%,0
+11,Other,10.53%,2
+,Total,100%,19
+
+Q3 - What is your rating of this trip experience?
+Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+Timeliness,72.00,100.00,86.22,9.44,89.17,18
+Crowd,6.00,100.00,61.67,31.36,983.44,18
+Behavior of others,32.00,100.00,82.17,17.88,319.69,18
+
+Q4 - Did you search for any online information about the destination just before you start this trip?
+#,Answer,%,Count
+1,Yes,21.05%,4
+2,No,78.95%,15
+,Total,100%,19
+
+Q7 - Which sources did you use? (Select all that apply...)
+#,Answer,%,Count
+1,App,75.00%,3
+2,Search engine,25.00%,1
+3,Typed a specific website,0.00%,0
+4,Other,0.00%,0
+,Total,100%,4
+
+Q8 - What is the specific source that you used for the previous question?
+What is the specific source that you used for the previous question?
+Uber
+Yelp
+Uber
+Uber app
+
+Q9 - Do you consider this search to be successful?
+#,Answer,%,Count
+1,Definitely yes,75.00%,3
+2,Probably yes,0.00%,0
+3,Might or might not,0.00%,0
+4,Probably not,0.00%,0
+5,Definitely not,25.00%,1
+,Total,100%,4
+
+Q10 - Why or why not?
+Why or why not?
+I found a rider.
+Restaurant was closed when I got here
+I found the ride.
+I could get the car in the expected time
