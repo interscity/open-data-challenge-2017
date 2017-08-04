@@ -1,9 +1,20 @@
 Default Report
-Last Modified: 2017-08-02 14:58:46 PDT
+Last Modified: 2017-08-04 14:03:06 PDT
 
 
 Q12 - This will be auto-filled with your unique user id. This allows us to link your answers with the passively collected data without giving out your email to qualtrics.
 This will be auto-filled with your unique user id. This allows us to link y...
+dcdb5f74071a4e5ba954e613c5b46e5d
+dcdb5f74071a4e5ba954e613c5b46e5d
+b359532e176c4e14ace3ceb7bece34fd
+b359532e176c4e14ace3ceb7bece34fd
+ea59084e11d4407692523b9a29ce35e0
+ea59084e11d4407692523b9a29ce35e0
+dcdb5f74071a4e5ba954e613c5b46e5d
+dcdb5f74071a4e5ba954e613c5b46e5d
+ea59084e11d4407692523b9a29ce35e0
+65a97223ba6e4b93a6b0a3ecec3143d2
+65a97223ba6e4b93a6b0a3ecec3143d2
 ea59084e11d4407692523b9a29ce35e0
 ea59084e11d4407692523b9a29ce35e0
 ea59084e11d4407692523b9a29ce35e0
@@ -26,6 +37,17 @@ faf252269b604835b3e4c4176779b66f
 
 Q13 - This will be automatically filled in with the trip start and end times to help us link these responses back to the trip.
 Trip start timestamp,Trip end timestamp,Trip start time,Trip end time
+1501853239.538,1501853622.4,2017-08-04T10:27:19-03:00,2017-08-04T10:33:42-03:00
+1501847633,1501848770.582,2017-08-04T08:53:53-03:00,2017-08-04T09:12:50-03:00
+1501851968.419,1501852573.293,2017-08-04T10:06:08-03:00,2017-08-04T10:16:13-03:00
+1501849290,1501849734.85,2017-08-04T09:21:30-03:00,2017-08-04T09:28:54-03:00
+1501846838,1501847678.669,2017-08-04T04:40:38-07:00,2017-08-04T04:54:38-07:00
+1501797020,1501797593,2017-08-03T14:50:20-07:00,2017-08-03T14:59:53-07:00
+1501776778,1501777373.079,2017-08-03T13:12:58-03:00,2017-08-03T13:22:53-03:00
+1501756695.12,1501759568.199,2017-08-03T07:38:15-03:00,2017-08-03T08:26:08-03:00
+1501763433,1501765240,2017-08-03T05:30:33-07:00,2017-08-03T06:00:40-07:00
+1501756836.984,1501760669,2017-08-03T07:40:36-03:00,2017-08-03T08:44:29-03:00
+1501756836.984,1501760669,2017-08-03T07:40:36-03:00,2017-08-03T08:44:29-03:00
 1501708786,1501710496.713,2017-08-02T14:19:46-07:00,2017-08-02T14:48:16-07:00
 1501687634,1501688379.842,2017-08-02T08:27:14-07:00,2017-08-02T08:39:39-07:00
 1501677959.335,1501679343.372,2017-08-02T05:45:59-07:00,2017-08-02T06:09:03-07:00
@@ -58,30 +80,30 @@ What was the other mode?
 
 Q2 - Why did you take this trip?
 #,Answer,%,Count
-1,Home,21.05%,4
-2,Work,10.53%,2
-3,School,21.05%,4
+1,Home,16.67%,5
+2,Work,10.00%,3
+3,School,33.33%,10
 4,Shopping,0.00%,0
-5,Meal,36.84%,7
+5,Meal,33.33%,10
 6,Pick-up/Drop-off,0.00%,0
 7,Personal/medical,0.00%,0
 8,Recreation/exercise,0.00%,0
 9,Entertainment/social,0.00%,0
 10,Religious,0.00%,0
-11,Other,10.53%,2
-,Total,100%,19
+11,Other,6.67%,2
+,Total,100%,30
 
 Q3 - What is your rating of this trip experience?
 Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
-Timeliness,72.00,100.00,86.22,9.44,89.17,18
-Crowd,6.00,100.00,61.67,31.36,983.44,18
-Behavior of others,32.00,100.00,82.17,17.88,319.69,18
+Timeliness,55.00,100.00,85.48,12.05,145.15,29
+Crowd,0.00,100.00,55.38,32.46,1053.82,29
+Behavior of others,24.00,100.00,81.00,20.22,408.69,29
 
 Q4 - Did you search for any online information about the destination just before you start this trip?
 #,Answer,%,Count
-1,Yes,21.05%,4
-2,No,78.95%,15
-,Total,100%,19
+1,Yes,13.33%,4
+2,No,86.67%,26
+,Total,100%,30
 
 Q7 - Which sources did you use? (Select all that apply...)
 #,Answer,%,Count
