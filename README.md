@@ -35,6 +35,7 @@ A complete list of the processed data types, in order of general interest, is:
 
 The data is also available through a public ipython notebook server at
 http://50.19.181.11:9999/tree?
+The password for the server is the organization that this repository is stored under (int.......)
 
 The sample notebook below has examples of how to access all these objects and plot them on a map.
 **NOTE: Please don't edit the notebook directly - this is a shared server.**
