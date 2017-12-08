@@ -42,12 +42,12 @@ Public server has been turned on, and will be turned off after some exploratory
 work through the end of the year.
 
 The data is also available through a public ipython notebook server at
-http://54.242.190.228:9999/tree?
+http://54.242.2.146:9999/tree?
 The password for the server is the organization that this repository is stored under (int.......)
 The sample notebook below has examples of how to access all these objects and plot them on a map.
 **NOTE: Please don't edit the notebook directly - this is a shared server.**
 Make a copy of the notebook, label it with your name, and explore the data there.
-http://50.19.181.11:9999/notebooks/Sample/Timeseries_Sample.ipynb
+http://54.242.2.146:9999/notebooks/Sample/Timeseries_Sample.ipynb
 
 ### Data format examples ###
 Here are some simple examples of different types of collected data, both raw and processed.
