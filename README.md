@@ -33,21 +33,13 @@ A complete list of the processed data types, in order of general interest, is:
 
 ### Quick start ###
 
-<del>
-Public server has been shut down to save compute resources. Please let shankari@eecs.berkeley.edu know 
-if you need this, and she can turn it back on.
-</del>
-
-Public server has been turned on, and will be turned off after some exploratory
-work through the end of the year.
-
-The data is also available through a public ipython notebook server at
-http://54.242.2.146:9999/tree?
-The password for the server is the organization that this repository is stored under (int.......)
+The data, along with other open travel data, is also available through a public ipython notebook server at
+http://34.239.42.177:8888/tree?
+The password for the server is the first names of the data collector's advisors and associated labs (R....D....R...B...). All information from the third sentence of her home page https://people.eecs.berkeley.edu/~shankari/.
 The sample notebook below has examples of how to access all these objects and plot them on a map.
-**NOTE: Please don't edit the notebook directly - this is a shared server.**
+**NOTE: The notebook is read-only, so you cannot save any changes to it.**
 Make a copy of the notebook, label it with your name, and explore the data there.
-http://54.242.2.146:9999/notebooks/Sample/Timeseries_Sample.ipynb
+http://34.239.42.177:8888/notebooks/Timeseries_Sample.ipynb
 
 ### Data format examples ###
 Here are some simple examples of different types of collected data, both raw and processed.
