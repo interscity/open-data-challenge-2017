@@ -35,7 +35,7 @@ A complete list of the processed data types, in order of general interest, is:
 
 The data, along with other open travel data, is also available through a public ipython notebook server at
 http://34.239.42.177:8888/tree?
-The password for the server is the first names of the data collector's advisors and associated labs (R....D....R...B...). All information from the third sentence of her home page https://people.eecs.berkeley.edu/~shankari/.
+The password for the server is a concatenation of the first names of the data collector's advisors and associated labs (R....D....R...B...). All information can be found in the third sentence of her home page https://people.eecs.berkeley.edu/~shankari/.
 The sample notebook below has examples of how to access all these objects and plot them on a map.
 **NOTE: The notebook is read-only, so you cannot save any changes to it.**
 Make a copy of the notebook, label it with your name, and explore the data there.
