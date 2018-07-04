@@ -34,12 +34,12 @@ A complete list of the processed data types, in order of general interest, is:
 ### Quick start ###
 
 The data, along with other open travel data, is also available through a public ipython notebook server at
-http://34.239.42.177:8888/tree?
+http://cardshark.cs.berkeley.edu:8888/tree?
 The password for the server is a concatenation of the first names of the data collector's advisors and associated labs (R....D....R...B...). All information can be found in the third sentence of her home page https://people.eecs.berkeley.edu/~shankari/.
 The sample notebook below has examples of how to access all these objects and plot them on a map.
 **NOTE: The notebook is read-only, so you cannot save any changes to it.**
 Make a copy of the notebook, label it with your name, and explore the data there.
-http://34.239.42.177:8888/notebooks/Timeseries_Sample.ipynb
+http://cardshark.cs.berkeley.edu:8888/notebooks/Timeseries_Sample.ipynb
 
 ### Data format examples ###
 Here are some simple examples of different types of collected data, both raw and processed.
